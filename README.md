@@ -65,4 +65,6 @@ Includes all datasets used in the article's analysis.
   - Each line corresponds to the same line in Strain_aside_Dataset_SHAP.txt file.
   - Each line encompasses the antibiotic's name followed by resistance phenotype of the strain to this antibiotic.
   - 1 indicating "Resistant", while 0 indicates "Susceptible".
+* KEGG_Columns.txt:
+  - Indices of features selected by KEGG.
   
