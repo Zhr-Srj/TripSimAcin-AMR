@@ -23,6 +23,10 @@ Consists of all ipython notebook files used to get the results mentioned in the 
   - Table 9 contents are from this file.
 * FeatureSelection.ipynb:
   - Feature selection using PCA and Information content.
+* IC_Q4_validation1.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on IC-selected features and drug vector of size 881.
+* IC_Q4_validation1.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on IC-selected features and drug vector of size 303, which was      selected by SHAP.
 
 ## Data folder
 Includes all datasets used in the article's analysis.
