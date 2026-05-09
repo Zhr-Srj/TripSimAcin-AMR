@@ -39,6 +39,11 @@ Consists of all ipython notebook files used to get the results mentioned in the 
   - Comparison of TripSimAcin-AMR with traditional ML models on SHAP-selected bacteria features and drug vector of size 881.
 * SHAP_validation2.ipynb:
   - Comparison of TripSimAcin-AMR with traditional ML models on SHAP-selected bacteria features and drug vector of size 303, which was selected by SHAP.
+* IC_Q4_External_validation1.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on IC-selected features and evaluated on external test set. Drug feature size is of size 881.
+* IC_Q4_External_validation2.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on IC-selected features and evaluated on external test set. Drug feature size is of size 303 selected by SHAP.
+    
 ## Data folder
 Includes all datasets used in the article's analysis.
 * Dataset19.zip:
