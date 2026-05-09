@@ -35,6 +35,10 @@ Consists of all ipython notebook files used to get the results mentioned in the 
   - Comparison of TripSimAcin-AMR with traditional ML models on PCA-selected features and drug vector of size 881.
 * PCA_validation2.ipynb:
   - Comparison of TripSimAcin-AMR with traditional ML models on PCA-selected features and drug vector of size 303, which was selected by SHAP.
+* SHAP_validation1.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on SHAP-selected bacteria features and drug vector of size 881.
+* SHAP_validation2.ipynb:
+  - Comparison of TripSimAcin-AMR with traditional ML models on SHAP-selected bacteria features and drug vector of size 303, which was selected by SHAP.
 ## Data folder
 Includes all datasets used in the article's analysis.
 * Dataset19.zip:
