@@ -21,6 +21,8 @@ Consists of all ipython notebook files used to get the results mentioned in the 
 * LRcomparison.ipynb:
   - Comparison of Logistic Regression performance with other baseline models.
   - Table 9 contents are from this file.
+* FeatureSelection.ipynb:
+  - Feature selection using PCA and Information content.
 
 ## Data folder
 Includes all datasets used in the article's analysis.
